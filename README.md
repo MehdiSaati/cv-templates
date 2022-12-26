@@ -1,2 +1,2 @@
 ## CV
-![CV site is live at ](https://mehdisaati.github.io/cv/)
+* [CV site is live at](https://mehdisaati.github.io/cv/)
