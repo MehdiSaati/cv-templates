@@ -1,2 +1,2 @@
 ## CV
-* [CV site is live at](https://mehdisaati.github.io/cv-templates/)
+* [View Live Preview](https://mehdisaati.github.io/cv-templates/)
