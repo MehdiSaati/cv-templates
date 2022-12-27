@@ -102,7 +102,43 @@ footer a:not(.nav-link) {
   border-bottom: 1px dashed;
   text-decoration: none;
   cursor: pointer; }
-
+ 
+  #mySidenav a {
+    position: absolute;
+    left: -85px;
+    transition: 0.3s;
+    padding: 12px !important;
+    width: 130px;
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+    border-radius: 0 10px 10px 0;
+  }
+  
+  #mySidenav a:hover {
+    left: 0;
+  }
+  
+  #about {
+    top: 105px;
+    background-color: #F4B400;
+    
+  }
+  
+  #hobbies {
+    top: 170px;
+    background-color: #2196F3;
+  }
+  
+  #projects {
+    top: 235px;
+    background-color: #f44336;
+  }
+  
+  #contact {
+    top: 300px;
+    background-color: #14896e;
+  }
 @media (min-width: 48em) {
   .site-title {
     float: left; }
