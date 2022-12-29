@@ -174,3 +174,117 @@ footer a:not(.nav-link) {
   .page-break {
     padding-top: 5rem;
     page-break-before: always; } }
+/* Colors-For-Text and Background
+------------------------------------------------------ */
+
+.text-color-highlighted {
+  color: #17c3b7;
+}
+
+.text-color-normal {
+  color: #212529;
+}
+
+.bg-color-normal {
+  background-color: #212529;
+}
+
+.text-bold-900 {
+  font-weight: 900;
+}
+
+
+/* ------------------------------------------------------ */
+ 
+/* Button Style 
+------------------------------------------------------ */
+
+.My-Button {
+  background-color: white;
+  color: #212529;
+  border: #212529 solid 0.5px;
+  border-radius: 0px;
+}
+
+.My-Button-see-live {
+  background-color: #212529;
+  color: white;
+  border: #212529 solid 0.5px;
+  border-radius: 0px;
+}
+
+.My-Button-special {
+  background-color: #17c3b7;
+  color: white;
+  border: #17c3b7 solid 0.5px;
+  border-radius: 0px;
+}
+
+
+.My-Button:hover,
+.My-button:active {
+  background-color: #212529;
+  color: white;
+  border: #212529 solid 0.5px;
+  border-radius: 0px;
+}
+
+.My-Button-see-live:hover,
+.My-Button-see-live:active {
+  background-color: #212529;
+  color: white;
+  border: #212529 solid 0.5px;
+  border-radius: 0px;
+}
+
+.My-Button-special:hover, 
+.My-Button-see-live:active {
+  background-color: #1b857e;
+  color: white;
+  border: #1b8571 solid 0.5px;
+  border-radius: 0px;
+}
+/* ------------------------------------------------------ */
+
+ 
+/* Hiding stuff 
+------------------------------------------------------ */
+
+a,a:hover {
+  text-decoration: none;
+  color: inherit;
+}
+
+.hide-overflow {
+  overflow-x: hidden;
+}
+
+/* ------------------------------------------------------ */
+ 
+
+/* Font-size 
+------------------------------------------------------ */
+
+.font-size-40 {
+  font-size: 40px;
+}
+
+
+/* ------------------------------------------------------ */
+ 
+/* Body-Head-1 Css 
+------------------------------------------------------ */
+
+.Body-Head-1 {
+  height: 100vh;
+  text-align: center;
+}
+
+.Body-Head-1-Inside {
+  position: relative;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+/* ------------------------------------------------------ */
